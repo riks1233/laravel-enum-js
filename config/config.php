@@ -14,4 +14,7 @@ return [
     'output_transform' => [
         'App\\Enums\\' => '',
     ],
+
+    // Whether the output files should end with .ts.
+    'ts_output_files' => false,
 ];
